@@ -6,8 +6,12 @@ comando ha aprender:
 
 - git init
 - git status
-- git add "adasdad"
-- git commit -m "nombredelcommit"
+- git add "adasdad", de work directory al staying area
+- git commit -m "nombredelcommit" del staying area a GIT
 - git log, para revisar lo que se hecho
 - Estoy modificando el archivo
+
+- gitt add . agraga los archivos que se han modificado
+- git diff muestra los cambios
+- git checkout deshacer el cambio
 
