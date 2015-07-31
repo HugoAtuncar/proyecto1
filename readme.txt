@@ -9,4 +9,5 @@ comando ha aprender:
 - git add "adasdad"
 - git commit -m "nombredelcommit"
 - git log, para revisar lo que se hecho
+- Estoy modificando el archivo
 
