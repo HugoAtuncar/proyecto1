@@ -28,7 +28,7 @@ GENERAR LA CLAVE SSH DE MANERA LOCAL:
 =====================================
 
 - cd ~/
-- ssh-keygen -t rsa
+- ssh-keygen -t rsa -C "hugoatuncar@hotmail.com"
 - cat ~/.ssh/id_rsa.pub //ver la clave por terminal
 
 CONFIGURACIÓN DE GITHUB
