@@ -19,3 +19,11 @@ comando ha aprender:
 2. git remote origin master : de manera remota se va al origen
 3. git push -u origin : para subir lo que se ha modificado //git push origin master
 4. git pull origin master //los cambios desde el repo origen
+
+
+//Creando ramas//
+
+1. git checkout -b mi-branch //crear una rama
+2. git branch
+3. git checkout master // git checkout mi-branch --permite cambiar de ramas
+
