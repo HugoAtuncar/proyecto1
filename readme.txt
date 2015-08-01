@@ -15,6 +15,7 @@ comando ha aprender:
 - git diff muestra los cambios
 - git checkout deshacer el cambio
 
-1. 
+1.  
 2. git remote origin master : de manera remota se va al origen
 3. git push -u origin : para subir lo que se ha modificado //git push origin master
+4. git pull origin master //los cambios desde el repo origen
